@@ -1,0 +1,10 @@
+This set of jupyter notebooks generates the figures for the ICLR 2023 Submission - 'Meta-Learning the Inductive Bias of Simple Neural Circuits'
+
+We use the following packages:
+
+Jupyter notebooks
+Numpy
+Torch
+Matplotlib
+Scipt
+Geomloss
